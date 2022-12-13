@@ -6,6 +6,7 @@
 
 * [Release Notes](00Releases/README.md)
   * [Release v0.4.2-rc1](00Releases/v0.4.2-rc1.md)
+  * [Release v0.4.2-rc1](00Releases/v0.4.2-rc1.md)
   * [Release v0.4.1](00Releases/v0.4.1.md)
   * [Release v0.4.1](00Releases/v0.4.1.md)
   * [Release v0.4.1-rc9](00Releases/v0.4.1-rc9.md)
