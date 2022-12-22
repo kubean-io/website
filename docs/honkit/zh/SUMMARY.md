@@ -5,6 +5,7 @@
 # 大纲目录
 
 * [Release Notes](00Releases/README.md)
+  * [Release v0.4.2-rc3](00Releases/v0.4.2-rc3.md)
   * [Release v0.4.2-rc2](00Releases/v0.4.2-rc2.md)
   * [Release v0.4.2-rc1](00Releases/v0.4.2-rc1.md)
   * [Release v0.4.2-rc1](00Releases/v0.4.2-rc1.md)
