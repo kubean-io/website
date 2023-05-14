@@ -5,6 +5,7 @@
 # Outline
 
 * [Release Notes](00Releases/README.md)
+  * [Release v0.5.1](00Releases/v0.5.1.md)
   * [Release v0.5.0-rc1](00Releases/v0.5.0-rc1.md)
   * [Release v0.5.0](00Releases/v0.5.0.md)
   * [Release v0.4.10](00Releases/v0.4.10.md)
